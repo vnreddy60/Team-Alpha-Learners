@@ -3,9 +3,9 @@ Journal Presentation for Big Data Analytics and Apps
 
 Team Details: Team Alpha Learners
 
-Harika Garapati
-Niharika Pedakolimi
-Sai Rishi Tejaswi Papineni
+Harika Garapati, 
+Niharika Pedakolimi, 
+Sai Rishi Tejaswi Papineni, 
 Vinay Reddy Kalluri
 
 Abstract: 
